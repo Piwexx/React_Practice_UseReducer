@@ -1,0 +1,15 @@
+>Types
+>Actions
+>Pure Functions
+    Son aquellas que operan utilizando solo los parametros de entrada sin recurrir 
+    o afectar a ningun otro elemento fuera de ellas
+
+        Debe cumplir estas dos condiciones:
+            -Dado unos parametros de entrada de identico valor, la funcion siempre devolvera el mismo
+            resultado.
+            
+            -El computo de la funcion,su logica , no implica ningun efecto observable colateral fuera
+            de ella
+
+>Cuando usar usar UseReducer
+
